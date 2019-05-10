@@ -14,6 +14,9 @@
 #### [Python语言的基本特征]()
 #### [二元运算符和比较运算]
 #### [Python中的标量类型及其特点]
+#### [for循环_pass_range函数_三元表达式]
+#### [元组创建及方法]
+#### [列表的创建及方法]
 
 ### [第五章 NumPy基础：数组和矢量计算](https://github.com/JazzZhao/jazznote/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E4%BA%94%E7%AB%A0%20NumPy%E5%9F%BA%E7%A1%80%EF%BC%9A%E6%95%B0%E7%BB%84%E5%92%8C%E7%9F%A2%E9%87%8F%E8%AE%A1%E7%AE%97)
 
