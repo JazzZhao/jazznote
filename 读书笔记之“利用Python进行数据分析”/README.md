@@ -11,19 +11,19 @@
 #### [魔术命令](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%B8%80%E7%A7%8D%E4%BA%A4%E4%BA%92%E5%BC%8F%E8%AE%A1%E7%AE%97%E5%92%8C%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83IPython/%E9%AD%94%E6%9C%AF%E5%91%BD%E4%BB%A4.ipynb)
 
 ### [第四章 Python语言基础](https://github.com/JazzZhao/jazznote/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80)
-#### [Python语言的基本特征]()
-#### [二元运算符和比较运算]
-#### [Python中的标量类型及其特点]
-#### [for循环_pass_range函数_三元表达式]
-#### [元组创建及方法]
-#### [列表的创建及方法]
-#### [字典创建及方法]
-#### [集合创建及方法]
-#### [列表、字典和集合的推导式]
-#### [函数]
-#### [迭代器与生成器]
-#### [Python中的异常处理]
-#### [Python中的文件处理]
+#### [Python语言的基本特征](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/Python%E8%AF%AD%E8%A8%80%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%89%B9%E5%BE%81.ipynb)
+#### [二元运算符和比较运算](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E4%BA%8C%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6%E5%92%8C%E6%AF%94%E8%BE%83%E8%BF%90%E7%AE%97.ipynb)
+#### [Python中的标量类型及其特点](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/Python%E4%B8%AD%E7%9A%84%E6%A0%87%E9%87%8F%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E7%89%B9%E7%82%B9.ipynb)
+#### [for循环_pass_range函数_三元表达式](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/for%E5%BE%AA%E7%8E%AF_pass_range%E5%87%BD%E6%95%B0_%E4%B8%89%E5%85%83%E8%A1%A8%E8%BE%BE%E5%BC%8F.ipynb)
+#### [元组创建及方法](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E5%85%83%E7%BB%84%E5%88%9B%E5%BB%BA%E5%8F%8A%E6%96%B9%E6%B3%95.ipynb)
+#### [列表的创建及方法](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E5%88%97%E8%A1%A8%E5%88%9B%E5%BB%BA%E5%8F%8A%E6%96%B9%E6%B3%95.ipynb)
+#### [字典创建及方法](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E5%AD%97%E5%85%B8%E5%88%9B%E5%BB%BA%E5%8F%8A%E6%96%B9%E6%B3%95.ipynb)
+#### [集合创建及方法](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E9%9B%86%E5%90%88%E5%88%9B%E5%BB%BA%E5%8F%8A%E6%96%B9%E6%B3%95.ipynb)
+#### [列表、字典和集合的推导式](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E5%88%97%E8%A1%A8%E3%80%81%E5%AD%97%E5%85%B8%E5%92%8C%E9%9B%86%E5%90%88%E7%9A%84%E6%8E%A8%E5%AF%BC%E5%BC%8F.ipynb)
+#### [函数](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E5%87%BD%E6%95%B0.ipynb)
+#### [迭代器与生成器](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/%E8%BF%AD%E4%BB%A3%E5%99%A8%E4%B8%8E%E7%94%9F%E6%88%90%E5%99%A8.ipynb)
+#### [Python中的异常处理](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/Python%E4%B8%AD%E7%9A%84%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.ipynb)
+#### [Python中的文件处理](https://github.com/JazzZhao/jazznote/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/Python%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86.ipynb)
 
 ### [第五章 NumPy基础：数组和矢量计算](https://github.com/JazzZhao/jazznote/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E2%80%9C%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%9D/%E7%AC%AC%E4%BA%94%E7%AB%A0%20NumPy%E5%9F%BA%E7%A1%80%EF%BC%9A%E6%95%B0%E7%BB%84%E5%92%8C%E7%9F%A2%E9%87%8F%E8%AE%A1%E7%AE%97)
 
