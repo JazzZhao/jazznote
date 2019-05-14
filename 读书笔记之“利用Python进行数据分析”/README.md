@@ -29,3 +29,6 @@
 #### [Numpy基本特征]()
 #### [Numpy的切片和索引]()
 #### [reshape、flatten、ravel函数和C、Fortran顺序]()
+#### [转置和轴对换]()
+#### [利用数组进行数据处理]()
+#### [numpy.where函数的使用]()
