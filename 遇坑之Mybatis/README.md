@@ -10,5 +10,5 @@
 
 ### [如何用Mybatis实现组织单位树形结构查询](https://github.com/JazzZhao/jazznote/blob/master/%E9%81%87%E5%9D%91%E4%B9%8BMybatis/%E5%A6%82%E4%BD%95%E7%94%A8Mybatis%E5%AE%9E%E7%8E%B0%E7%BB%84%E7%BB%87%E5%8D%95%E4%BD%8D%E6%A0%91%E5%BD%A2%E7%BB%93%E6%9E%84%E6%9F%A5%E8%AF%A2.md)
 
-### [参数中的List和Map如何处理]()
+### [参数中的List和Map如何处理](https://github.com/JazzZhao/jazznote/blob/master/%E9%81%87%E5%9D%91%E4%B9%8BMybatis/%E5%8F%82%E6%95%B0%E4%B8%AD%E7%9A%84List%E5%92%8CMap%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86.md)
 
