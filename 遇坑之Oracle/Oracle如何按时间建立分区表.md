@@ -59,12 +59,12 @@
     (partition part_t01 values less than(to_date('2019-01-12', 'yyyy-mm-dd')));
 ```
 
-#### 查询当前表有多少分区
+#### 查询当前表有多少分区？
 ```sql
     select table_name,partition_name from user_tab_partitions where table_name='TEST_PART';
 ```
 
-#### 查询表中的某个分区里的数据
+#### 查询表中的某个分区里的数据？
 ```sql
     select * from TEST_PART partition(SYS_P21);
 ```
