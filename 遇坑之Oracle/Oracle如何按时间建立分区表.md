@@ -14,8 +14,8 @@
         PLATE_NUM VARCHAR2(20),
         PLATE_TYPE VARCHAR2(20),
         PLATE_COLOR VARCHAR2(20),
-        DATE_TIME DATE,
-    );
+        DATE_TIME DATE
+    )
     PARTITION BY RANGE (DATE_TIME) INTERVAL (numtoyminterval(1, 'year'))
     (partition part_t01 values less than(to_date('2019-01-12', 'yyyy-mm-dd')));
 ```
@@ -27,8 +27,8 @@
         PLATE_NUM VARCHAR2(20),
         PLATE_TYPE VARCHAR2(20),
         PLATE_COLOR VARCHAR2(20),
-        DATE_TIME DATE,
-    );
+        DATE_TIME DATE
+    )
     PARTITION BY RANGE (DATE_TIME) INTERVAL (numtoyminterval(1, 'month'))
     (partition part_t01 values less than(to_date('2019-01-12', 'yyyy-mm-dd')));
 ```
@@ -40,8 +40,8 @@
         PLATE_NUM VARCHAR2(20),
         PLATE_TYPE VARCHAR2(20),
         PLATE_COLOR VARCHAR2(20),
-        DATE_TIME DATE,
-    );
+        DATE_TIME DATE
+    )
     PARTITION BY RANGE (DATE_TIME) INTERVAL (NUMTODSINTERVAL(1, 'day'))
     (partition part_t01 values less than(to_date('2019-01-12', 'yyyy-mm-dd')));
 ```
@@ -53,8 +53,8 @@
         PLATE_NUM VARCHAR2(20),
         PLATE_TYPE VARCHAR2(20),
         PLATE_COLOR VARCHAR2(20),
-        DATE_TIME DATE,
-    );
+        DATE_TIME DATE
+    )
     PARTITION BY RANGE (DATE_TIME) INTERVAL (NUMTODSINTERVAL(7, 'day'))
     (partition part_t01 values less than(to_date('2019-01-12', 'yyyy-mm-dd')));
 ```
